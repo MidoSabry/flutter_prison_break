@@ -27,4 +27,6 @@ by using:
 API : https://www.breakingbadapi.com/api/
 
 
-![Screenshot_20210731-040320](https://user-images.githubusercontent.com/48366462/127725627-058e4c47-cd17-410d-996a-d795c51589f0.jpg)
+
+
+<img src="https://user-images.githubusercontent.com/48366462/127725627-058e4c47-cd17-410d-996a-d795c51589f0.jpg" width="200" height="400" />
