@@ -1,0 +1,6 @@
+This app making for breaking bad series the display all characters in this series
+by using:
+ - Bloc statemanagement(cubit)
+ - Dio to get data from api
+ - animate Text kit  to make animation for text
+ - flutter offline to make image when interner not exist
