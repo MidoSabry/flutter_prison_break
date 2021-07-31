@@ -31,5 +31,12 @@ API : https://www.breakingbadapi.com/api/
 
 <img src="https://user-images.githubusercontent.com/48366462/127725627-058e4c47-cd17-410d-996a-d795c51589f0.jpg" width="300" height="500" />
 
-
 <img src="https://user-images.githubusercontent.com/48366462/127725875-d802951b-56af-4386-b2d1-ecdf8e26cd66.jpg" width="300" height="500" />
+
+<img src="https://user-images.githubusercontent.com/48366462/127725877-8e1afa02-decf-43a6-9bdd-84bf595f3fe4.jpg" width="300" height="500" />
+
+<img src="https://user-images.githubusercontent.com/48366462/127725880-ca8d7029-72fd-477e-859e-fd2c0e053928.jpg" width="300" height="500" />
+
+<img src="https://user-images.githubusercontent.com/48366462/127725884-a477c9ee-5952-4af2-82c9-666827c10967.jpg" width="300" height="500" />
+
+
